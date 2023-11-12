@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#TODO: Find better way to compare images
+diff $1 $2
